@@ -1,0 +1,38 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+*.iml
+*.lock
+pubspec.lock
+build/
+
+# Android
+/android/app/src/main/res/raw/
+/android/app/src/main/res/drawable*/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# iOS
+/ios/Flutter/flutter_export_environment.sh
+/ios/Podfile.lock
+/ios/.symlinks/
+/ios/Flutter/App.framework/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/ServiceDefinitions.json
+
+# Web
+/web/.dart_tool/
+/web/build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log

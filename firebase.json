@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "geolock-54182",
+                    "appId": "1:869909289418:android:536503c8bbc8af506d9733",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "geolock-54182",
+                    "configurations": {
+                        "android": "1:869909289418:android:536503c8bbc8af506d9733",
+                        "ios": "1:869909289418:ios:5803b13f5b9847666d9733",
+                        "web": "1:869909289418:web:4d97c58d5fd90bdb6d9733"
+                    }
+                }
+            }
+        }
+    }
+}
